@@ -19,4 +19,4 @@ This is a simple web application that uses the [OpenWeatherMap](https://openweat
 * Node.js
 * Express.js
 * EJS
-* 
+* Axios
