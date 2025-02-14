@@ -8,6 +8,7 @@ This is a simple web application that uses the [OpenWeatherMap](https://openweat
 2. Install the dependencies using `npm install`.
 3. Start the server using `node index.js`.
 4. Open your web browser and go to `http://localhost:3000` to see the weather forecast.
+5. Website URL: https://weather-forecasting-web-app.onrender.com
 
 ## Features
 
